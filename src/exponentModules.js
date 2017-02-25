@@ -1,6 +1,7 @@
 'use strict';
 
 module.exports = [
+  {"ExponentKeepAwake":[{"activate":"function"},{"deactivate":"function"}]},
   {"ExponentAppLoadingManager":[{"finishedAsync":"function"}]},
   {"ExponentBlurViewManager":[]},
   {"ExponentContacts":[{"getContactsAsync":"function"}]},
